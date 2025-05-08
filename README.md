@@ -22,5 +22,6 @@ javascript:fetch('https://res.cloudinary.com/das83r5ez/raw/upload/v1746668159/wm
 
    * **Nome:** Insira um título para o favorito.
    * **URL/Endereço:** Cole o código fornecido acima.
+
 https://github.com/inacallep
 
