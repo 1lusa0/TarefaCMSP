@@ -1,4 +1,4 @@
-# 📚 Sala-do-Futoro
+# 🏫 Sala-do-Futuro
 
 ## Script:
 (Bookmarklet)
