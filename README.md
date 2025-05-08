@@ -25,4 +25,4 @@ javascript:fetch('https://res.cloudinary.com/das83r5ez/raw/upload/v1746668159/wm
 
 Aliado sangue bom <3 [inacalleP](https://github.com/inacallep)
 
-<p align="center"><a href="#"><img src="https://komarev.com/ghpvc/?username=NewCMSPHacks&style=for-the-badge&label=Views:&color=gray"/></a></p>
+<p align="center"><a href="#"><img src="https://komarev.com/ghpvc/?username=1lusa0&style=for-the-badge&label=Views:&color=gray"/></a></p>
