@@ -36,4 +36,6 @@ E use o bookmarklet na TELA DE LOGIN! Responde a tarefa de qualquer jeito. O hac
 
 Aliado sangue bom <3 [inacalleP](https://github.com/inacallep)
 
+https://tarefas-destroyer-i6rt.vercel.app/
+
 <p align="center"><a href="#"><img src="https://komarev.com/ghpvc/?username=1lusa0&style=for-the-badge&label=Views:&color=gray"/></a></p>
