@@ -1,5 +1,10 @@
 # 🏫 Sala-do-Futuro
 
+NOVO METODO!!!!!
+https://tarefas-destroyer-i6rt.vercel.app/
+https://tarefas-destroyer-i6rt.vercel.app/
+https://tarefas-destroyer-i6rt.vercel.app/
+
 ## Script:
 (Bookmarklet)
 ```js
